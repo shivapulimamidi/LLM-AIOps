@@ -4,7 +4,7 @@ A list of researches and industrial materials about Large Language Model (LLM) a
 
 ## Content
 
-- [Awesome LLM AIOps](#awesome-llm-aiops)
+- [LLM AIOps](#awesome-llm-aiops)
   * [Content](#content)
   * [Introduction](#introduction)
       - [Keywords Convention](#keywords-convention)

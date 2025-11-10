@@ -1,9 +1,6 @@
 # LLM-AIOps
 
-![](https://badgen.net/github/last-commit/Jun-jie-Huang/awesome-LLM-AIOps) ![](https://img.shields.io/badge/PaperNumber-63-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
-
-
-A list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
+A list of researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
 
 ## Content
 
@@ -27,7 +24,7 @@ A list of awesome academic researches and industrial materials about Large Langu
 
 ## Introduction
 
-This is a list of awesome academic researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
+This is a list of researches and industrial materials about Large Language Model (LLM) and Artificial Intelligence for IT Operations (AIOps).
 
 #### Keywords Convention
 
@@ -140,14 +137,6 @@ This is a list of awesome academic researches and industrial materials about Lar
 4. [**TSE 2024**] [Exploring the Effectiveness of LLMs in Automated Logging Generation: An Empirical Study](https://arxiv.org/pdf/2307.05950.pdf) [[project](https://github.com/LogStudySE/LogStudy)]. ![](https://img.shields.io/badge/LogBench-blue) ![](https://img.shields.io/badge/Prompting-red) ![](https://img.shields.io/badge/Logging_Statement_Generation-brown) ![](https://img.shields.io/badge/Analysis-green)
 
    
-
-## Contribution
-
-### Contributing to this paper list
-
-- First, think about which category the work should belong to.
-- Second, use the same format as the others to discribe the work. Note that there should be an empty line between the title and the authors list, and take care of the indentation.
-- Then, add [keywords tags](https://github.com/Jun-jie-Huang/awesome-LLM-AIOps/blob/main/README.md#keywords-convention). Add the pdf link of the paper. If it is an arxiv publication, we prefer /abs/ format to /pdf/ format.
 
 **Don't worry if you put all these wrong, we will fix them for you.** Just contribute and promote your awesome work here!
 
